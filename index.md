@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Im gonna Morb you"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hello my name is Ryan Kam
