@@ -1,5 +1,5 @@
 ---
-title: "Im gonna Morb you"
+title: "My Blog"
 author: Ryan Kam
 ---
 
