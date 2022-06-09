@@ -13,8 +13,5 @@ can play multiple instruments
 
 head of volunteers for korean school
 
-twitter_username: ryannnkam
-
-github_username: rKam1
 
 
